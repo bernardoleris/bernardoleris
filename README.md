@@ -1,4 +1,5 @@
 ### Hi there, I'm Bernardo Leris!
+I am 21 years old and I am currently on an academic journey, studying Information Systems at the Federal University of Lavras. Every day, I dive headfirst into the pursuit of new knowledge and project development. My current goal is to become a skilled full-stack developer, combining technical, practical, and interpersonal skills. I am following my path with dedication and giving my best, aiming to open up new opportunities in my career!
 ### 🛠 Tech Stack
 
 - 💻 **Java** | **JavaScript** | **Python** | **C++**
