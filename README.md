@@ -4,7 +4,7 @@ I am 21 years old and I am currently on an academic journey, studying Informatio
 
 - 💻 **Java** | **JavaScript** | **Python** | **C++**
 
-- 🌐 **Spring Boot** | **React.js** | **Express.js** | **jQuery** | **EJS** | **Bootstrap** | **JavaFX**
+- 🌐 **Spring Boot** | **React.js** | **Express.js** | **jQuery** | **EJS** | **Bootstrap** | **JavaFX** | **StyledComponents**
 
 - 🛢 **MySQL** | **PostgreSQL** | **MongoDB**
 
