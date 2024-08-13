@@ -10,7 +10,7 @@ I am 21 years old and I am currently on an academic journey, studying Informatio
 
 🌎 **HTML** | **CSS** | **jQuery** | **EJS** | **Bootstrap** | **JavaFX** | **StyledComponents**
 
-🔗 **API Rest**
+🔗 **API Rest | Docker**
 
 <div align="center">
   <a href="https://github.com/bernardoleris">
