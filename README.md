@@ -1,6 +1,5 @@
 ### Hi there, I'm Bernardo Leris!
-I am 21 years old and I am currently on an academic journey, studying Information Systems at the Federal University of Lavras, and working as a full stack developer at Emakers Júnior.
-### 🛠 Tech Stack:
+### Tech Stack:
 
 💻 **Java** | **JavaScript** | **Python** | **C++**
 
