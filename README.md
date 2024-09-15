@@ -25,7 +25,7 @@ I am a trainee software engineer at Levty, a full stack developer at Emakers Jr,
 
 <div align="center">
   <a href="https://github.com/bernardoleris">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoleris&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoleris&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
