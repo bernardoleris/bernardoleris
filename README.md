@@ -1,5 +1,5 @@
 ## 👋🏽 Hi there, I'm Bernardo Leris!
-I am a trainee software engineer at Levty, a full stack developer at Emakers Jr, a junior enterprise, and an Information Systems student at the Federal University of Lavras. Always seeking new knowledge and challenges!
+I am a software engineer at Levty. Always seeking new knowledge and challenges!
 ## 🚀 Tech Stack:
 ### Programming Languages:
 
